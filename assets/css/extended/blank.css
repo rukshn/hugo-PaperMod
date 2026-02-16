@@ -3,3 +3,22 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
+
+#topBar {
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  background: #f9c58d; /* Fallback for older browsers */
+  background: linear-gradient(135deg, #f9c58d, #f492f0);
+  padding: 4px;
+  color: #3e1f47;
+  font-weight: 500;
+  font-size: 1rem;
+  display: flex;
+
+  svg {
+    height: 1.5rem;
+    width: 1.5rem;
+    align-self: center;
+  }
+}
