@@ -15,6 +15,10 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
   font-weight: 500;
   font-size: 1rem;
   display: flex;
+  
+  a{
+      color: #3e1f47;
+  }
 
   svg {
     height: 1.5rem;
