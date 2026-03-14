@@ -26,3 +26,12 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
     align-self: center;
   }
 }
+
+.home-info {
+
+border-radius: 10px;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://images.unsplash.com/photo-1752314495071-0da03838890c);
+    background-size: cover;
+    background-position: center;
+    padding: 24px;
+}
