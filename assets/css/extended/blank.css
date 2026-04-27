@@ -35,5 +35,13 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
   background-size: cover;
   background-position: center;
   padding: 24px;
-  color: rgb(218, 218, 219);
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  a {
+    color: rgb(218, 218, 219) !important;
+  }
 }
