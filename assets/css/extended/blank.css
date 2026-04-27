@@ -31,10 +31,9 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
   border-radius: 10px;
   background:
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(https://images.unsplash.com/photo-1773781482078-08d5021136dd);
+    url(https://images.unsplash.com/photo-1776377231755-42e7e9742a59);
   background-size: cover;
   background-position: center;
   padding: 24px;
   color: rgb(218, 218, 219);
 }
-
